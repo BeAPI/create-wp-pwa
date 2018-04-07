@@ -1,0 +1,1 @@
+This project was bootstrapped with [Create WP PWA](https://github.com/BeAPI/create-wp-pwa/).
