@@ -1,7 +1,7 @@
 {
   "name": "create-wp-pwa",
   "description": "Create PWA connected to WP REST API in one command",
-  "version": "0.5.2",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
